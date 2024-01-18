@@ -1,16 +1,16 @@
 # Note Taker Starter Code
 
-#Description
+# Description
 This is an application called NoteExpress that can be used to write and save notes. 
 
-#Installation
+# Installation
 In order to get accesst to the note taker, click the link below.
 
-#Usage
+# Usage
 N/A
 
-#Credits
+# Credits
 Extensively used stack overflow and W3schools for reference and help on code. Tutor asked me questions that helped me understand how to get started.
 
-#License
+# License
 There is no license.
