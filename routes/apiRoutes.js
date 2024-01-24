@@ -1,6 +1,6 @@
 const fs = require("fs");
 const router = require("express").Router();
-const uuid = require("uuid");
+const { v4: uuidv4 } = require('uuid');
 
 router.get('/notes', (req, res) => {
     console.info(`${req.method} request received for notes`);
@@ -16,9 +16,9 @@ router.post('/notes', (req, res) => {
     //const { title, text } = req.body;
     //if (req.body) {
       const newNote = {
+        id: uuidv4(),
         title: req.body.title,
         text: req.body.text,
-        id: uuid()
         // tip_id: uuid(),
       };
       temp.push(newNote);
