@@ -1,16 +1,16 @@
-# Note Taker Starter Code
+# NoteEspresso
 
 # Description
 This is an application called NoteExpress that can be used to write and save notes. 
 
 # Installation
-In order to get accesst to the note taker, click the link below.
+In order to get access to the note taker, paste the URL below.
 
 # Usage
-N/A
+https://notesespresso-b566c78a8d5f.herokuapp.com/notes 
 
 # Credits
-Extensively used stack overflow and W3schools for reference and help on code. Tutor asked me questions that helped me understand how to get started.
+Tutor asked me questions that helped me understand how to get started. Referred to in-class activities.
 
 # License
 There is no license.
